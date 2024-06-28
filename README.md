@@ -3,9 +3,8 @@ https://nextjs.org/learn/dashboard-app/getting-started
 ```
 npm install -g pnpm
 ```
-```
-npx create-next-app@latest nextjs-dashboard --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example" --use-pnpm
-```
+
+(참고: npx create-next-app@latest nextjs-dashboard --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example" --use-pnpm)
 ```
 pnpm i
 ```
