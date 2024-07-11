@@ -18,3 +18,14 @@ pnpm dev
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+
+
+* postgre database
+```
+pnpm i @vercel/postgres
+```
+https://vercel.com/
+https://wontory.gitbook.io/next.js-journey/learn-next.js/docs/chapter-6.-setting-up-your-database
+https://nextjs.org/learn/dashboard-app/setting-up-your-database
+
+env 커밋 예외 설정
