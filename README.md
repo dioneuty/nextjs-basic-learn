@@ -41,3 +41,6 @@ POSTGRES_URL = *****
 
 * vercel 페이지
 https://nextjs-basic-learn-nine.vercel.app/
+
+* use-debounce 설치
+pnpm i use-debounce
